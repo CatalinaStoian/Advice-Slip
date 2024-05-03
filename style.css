@@ -20,39 +20,39 @@ body{
 
 }
 .card-container h6{
-width: 101px;
-height: 19px;
-color: #53FFAB;
-font-size: 15px;
-font-weight: 400;
-margin: 40px;
+    width: 101px;
+    height: 19px;
+    color: #53FFAB;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 40px;
 }
 
 .card-container p{
- width: 468px;
-height: 114px;
-top: 313px;
-left: 486px;
-gap: 0px;
-opacity: 0px;
-font-family: StratosWeb;
-font-size: 30px;
-font-weight: 400;
-line-height: 37.8px;
-text-align: center;
-color: #D9D9D9;
-margin-bottom: 40px;
+    width: 468px;
+    height: 114px;
+    top: 313px;
+    left: 486px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: StratosWeb;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 37.8px;
+    text-align: center;
+    color: #D9D9D9;
+    margin-bottom: 40px;
 }
 
 .button-card button{
-background-image: url(./img/Ellipse\ 61.svg);
-width: 65px;
-height: 65px;
-top: 524px;
-left: 688px;
-opacity: 0px;
-margin-top: 40px;
-cursor: pointer;
-border-radius: 50%;
-border: none;
+    background-image: url(./img/Ellipse\ 61.svg);
+    width: 65px;
+    height: 65px;
+    top: 524px;
+    left: 688px;
+    opacity: 0px;
+    margin-top: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
 }
